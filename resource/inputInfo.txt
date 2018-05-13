@@ -1,0 +1,8 @@
+{
+	# 用户名
+	"GitHubUserName": "zhaoolee", 
+	# 用户密码
+	"GitHubPassWord": "github", 
+	# 将要新建的仓库
+	"GitHubRepositoryName": "MarkDown"
+}
